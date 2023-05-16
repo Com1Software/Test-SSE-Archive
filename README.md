@@ -1,5 +1,7 @@
 # Test-SSE
 
+https://github.com/mpetazzoni/sse.js
+
 https://en.wikipedia.org/wiki/Server-sent_events
 
 https://stackoverflow.com/questions/26543047/passing-data-eventsource-server-sent-event-sse-as-another-variable
