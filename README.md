@@ -1,5 +1,7 @@
 # Test-SSE
 
+http://sse.fastlydemo.net/
+
 https://dotnettutorials.net/lesson/server-sent-events-in-html/
 
 https://github.com/mpetazzoni/sse.js
