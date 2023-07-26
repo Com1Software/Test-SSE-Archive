@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+<style>
+body{
+background-color:dodgerblue;
+color:white;
+font-family:arial;
+}</style>  
+</head>
+<h1>Received Server Events</h1>
+<div id="result"></div>
+<script>
+if(typeof(EventSource) !== "undefined") {
+  var source = new EventSource("demo_sse.php");
+ source.onmessage = function(event) {
+   document.getElementById("result").innerHTML += event.data + "<br>";
+ };
+} else {
+ document.getElementById("result").innerHTML = "Your browser Doesn't support the SSE";
+}
+</script>
+
+</body>
+</html>
