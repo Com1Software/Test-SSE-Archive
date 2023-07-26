@@ -8,6 +8,8 @@ https://github.com/r3labs/sse
 
 http://sse.fastlydemo.net/
 
+https://pkg.go.dev/github.com/r3labs/sse/v2
+
 https://dotnettutorials.net/lesson/server-sent-events-in-html/
 
 https://github.com/mpetazzoni/sse.js
