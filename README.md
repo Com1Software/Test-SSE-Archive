@@ -1,5 +1,7 @@
 # Test-SSE
 
+https://github.com/dacort/golang-sse-demo
+
 https://github.com/r3labs/sse
 
 http://sse.fastlydemo.net/
