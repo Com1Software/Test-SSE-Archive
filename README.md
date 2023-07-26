@@ -1,5 +1,7 @@
 # Test-SSE
 
+https://github.com/gurleensethi/go-server-sent-event-example
+
 https://github.com/dacort/golang-sse-demo
 
 https://github.com/rafaelgfirmino/dev-to/tree/main
